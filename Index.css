@@ -145,7 +145,7 @@ body {
 }
 
 .bk {
-  background-image: url(/img/bg-callout.jpg);
+  background-image: url(img/bg-callout.jpg);
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -184,7 +184,7 @@ body {
 }
 
 .Project1 {
-  background-image: url(/img/portfolio-1.jpg);
+  background-image: url(img/portfolio-1.jpg);
   background-size: cover;
   background-position: center;
   width: 500px;
@@ -201,7 +201,7 @@ body {
 }
 
 .Project2 {
-  background-image: url(/img/portfolio-2.jpg);
+  background-image: url(img/portfolio-2.jpg);
   width: 500px;
   height: 300px;
   color: #fff;
@@ -217,7 +217,7 @@ body {
 }
 
 .Project3 {
-  background-image: url(/img/portfolio-3.jpg);
+  background-image: url(img/portfolio-3.jpg);
   background-size: cover;
   width: 500px;
   height: 300px;
@@ -234,7 +234,7 @@ body {
 }
 
 .Project4 {
-  background-image: url(/img/bg-callout.jpg);
+  background-image: url(img/bg-callout.jpg);
   display: flex;
   flex-direction: column;
   justify-content: center;
